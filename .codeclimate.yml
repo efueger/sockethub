@@ -14,17 +14,17 @@ plugins:
     enabled: true
 
 exclude_patterns:
-  - "**/dist/",
-  - "**/browser/",
-  - "**/node_modules/",
-  - "**/script/",
-  - "**/spec/",
-  - "**/test/",
-  - "**/tests/",
-  - "**/vendor/",
-  - "**/*_test.go",
-  - "**/*.d.ts",
-  - "**/views/",
-  - "**/src/routes/",
-  - "**/schemas/",
-  - "**/*.test.*"
+- "**/dist/"
+- "**/browser/"
+- "**/node_modules/"
+- "**/script/"
+- "**/spec/"
+- "**/test/"
+- "**/tests/"
+- "**/vendor/"
+- "**/*_test.go"
+- "**/*.d.ts"
+- "**/views/"
+- "**/src/routes/"
+- "**/schemas/"
+- "**/*.test.*"
