@@ -1,6 +1,8 @@
 version: "2"
 
 plugins:
+  structure:
+    enabled: false
   editorconfig:
     enabled: true
   eslint:
